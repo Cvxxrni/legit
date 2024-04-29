@@ -1,4 +1,4 @@
-_G.thingtosay = "hi guys qsk and legit here follow tyrese rl on black white and blue app and q.sk on desko ;) " 
+_G.thingtosay = "hi guys qsk and legit here follow tyrese rl on black white and blue app >> q.sk ds " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
