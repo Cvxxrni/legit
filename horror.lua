@@ -1,4 +1,4 @@
-_G.thingtosay = "ADD MY DESKO Q.SK FOR CHEATS AND FOLLOW ON BLUE AND BLACK APP LEGITRLPRO " 
+_G.thingtosay = "hi guys qsk and legit here follow tyrese rl on black white and blue app ;) " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
